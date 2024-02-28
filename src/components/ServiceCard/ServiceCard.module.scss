@@ -1,0 +1,15 @@
+.servicesCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  background-color: bisque;
+}
+
+.servicesCardTitle {
+  text-align: center;
+}

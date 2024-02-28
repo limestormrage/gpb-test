@@ -1,0 +1,11 @@
+.mainLinksWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.mainLink {
+  padding: 15px 20px;
+  background-color: rgb(25, 212, 212);
+  border-radius: 15px;
+}
